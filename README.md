@@ -1,6 +1,6 @@
 - 👋 Hi, I’m aryan saraswat
 - 👀 I’m interested in exploring and learning
-- 🌱 I’m currently learning game designing and programming
+- 🌱 I’m a game designer
 - 💞️ I’m looking to collaborate on github
 - 📫 Reach me on github, Discord and Instagram
 
